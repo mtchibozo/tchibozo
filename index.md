@@ -24,11 +24,11 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-<img src="Images/nycares.jpg" alt="hi" class="inline"/>
 [Link](url) and ![Image]("Images/nycares.jpg")
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<img src="Images/nycares.jpg" alt="hi" class="inline"/>
 
 ### Hobbies
 
