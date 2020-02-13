@@ -1,21 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to Maxime Tchibozo's GitHub Page
 
-You can use the [editor on GitHub](https://github.com/mtchibozo/tchibozo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Oops! This website is still a work in progress... Please come back once finals are over! [Profile](https://www.linkedin.com/in/maxime-tchibozo/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This GitHub Page runs on [Jekyll](https://jekyllrb.com/), from the content in my GitHub repository.
 
 ## About
 
 ### New York City!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+# Columbia University
+## Columbia University Medical Center
+### Télécom Paris
 
 - Bulleted
 - List
@@ -25,7 +21,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 [Link](url) and ![Image]("Images/nycares.jpg")
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 <img src="Images/nycares.jpg" alt="hi" class="inline"/>
