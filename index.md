@@ -1,6 +1,6 @@
 ## Welcome to Maxime Tchibozo's GitHub Page
 
-Oops! This website is still a work in progress... Please come back once finals are over! [Profile](https://www.linkedin.com/in/maxime-tchibozo/)
+Oops! This website is still a work in progress... Please come back once school is over! [Profile](https://www.linkedin.com/in/maxime-tchibozo/)
 
 This GitHub Page runs on [Jekyll](https://jekyllrb.com/), from the content in my GitHub repository.
 
